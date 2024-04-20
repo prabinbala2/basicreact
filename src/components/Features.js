@@ -29,7 +29,7 @@ export default function Features() {
                 </p>
               </div>
             </div>
-          </div>
+          </div> 
         ))}
       </div>
     </div>
